@@ -92,5 +92,4 @@ fn main() {
 
     println!("Finished calculations in {:.2?}", biggest_word_start.elapsed());
     println!("Biggest Word: {} of length {}", biggest_word, biggest_word_distance);
-    
 }
